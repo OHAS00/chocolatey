@@ -1,0 +1,2 @@
+# chocolatey
+chocolatey packages.config
